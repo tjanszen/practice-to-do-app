@@ -1,1 +1,1 @@
-# hapi-tutorial
+# hapi-prototype
