@@ -19,3 +19,7 @@ userSchema.statics.register = function(o, cb) {
     user.save(cb);
   });
 };
+
+
+User = mongoose.model('User', userSchema);
+module.exports = User;

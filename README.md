@@ -1,1 +1,1 @@
-# hapi-prototype
+# practice to-do app
